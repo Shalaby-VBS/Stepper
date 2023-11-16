@@ -1,16 +1,12 @@
-# stepper
+# 🏵 Stepper
 
-A new Flutter project.
+Simple UI Screen Without Any Dependencies 👍
 
-## Getting Started
+## 🚀 Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/Shalaby-VBS/Stepper/assets/149938388/64b4c34d-58ce-405c-ac45-ed0302340d92
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
